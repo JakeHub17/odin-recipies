@@ -1,22 +1,36 @@
 body{
   background-color: rgb(255, 251, 234);
 }
-
-.header{
-  text-align: center;
-  font-weight: bold;
-  color: rgb(125, 172, 165);
-  font-size: 38px;
-  font: "Sans Serif";
-
-}
-
 .links{
   text-align: center;
 }
-
 .top{
   position: absolute;
   bottom: 0;
   left: 50px;
+  
+}
+
+img{
+  display: inline-;
+  height: auto;
+  width: 210px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.header{
+  display: inline-block;
+  text-align: center;
+  margin-top: 2%;
+  font-weight: bold;
+  color: rgb(125, 172, 165);
+  font-size: 38px;
+  font: "Sans Serif";
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  
 }
